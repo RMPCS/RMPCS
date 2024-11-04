@@ -13,9 +13,6 @@ This system is divided into two main folders
 ### APP
 Python Dash application used to create a domain model, compute a solution and trigger a simulation of the solution.
 
-### LuaSimulator
-Löve2D Lua simulator engine that displays the simulation.
-
 
 ## Installation
 The neccessary dependencies can be installed using the following command.
